@@ -1,10 +1,10 @@
-package co.com.sofka.StepVerifier;
+package co.com.sofka.stepverifier;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StepVerifierApplicationTests {
+class StepverifierApplicationTests {
 
 	@Test
 	void contextLoads() {

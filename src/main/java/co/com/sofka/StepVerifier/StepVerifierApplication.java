@@ -1,13 +1,13 @@
-package co.com.sofka.StepVerifier;
+package co.com.sofka.stepverifier;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StepVerifierApplication {
+public class StepverifierApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StepVerifierApplication.class, args);
+		SpringApplication.run(StepverifierApplication.class, args);
 	}
 
 }
