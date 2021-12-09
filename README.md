@@ -1,7 +1,7 @@
 # Taller StepVerifier Y TestPublisher
 
 
-## TestPublishe
+## TestPublisher
 
 En ocasiones y bajo ciertos casos de prueba es posible que necesitemos algunos datos especiales para activar ciertos comportamientos concretos que queramos probar de un publicador especifico. TestPublisher<T>, nos permitirá activar señales de prueba como si de un publicador real se tratara, los métodos mas comunes son:
 
